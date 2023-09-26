@@ -1,3 +1,3 @@
-# Leveraging-Contextual-Data-for-Robustness-in-Vehicle-Routing-Problems
+# Leveraging-Contextual-Information-for-Robustness-in-Vehicle-Routing-Problems
 
 In progress... 
